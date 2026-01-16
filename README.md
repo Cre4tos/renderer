@@ -5,7 +5,7 @@ Portable layout using CMake.
 Structure:
 - src/      : implementation files
 - include/  : public headers
-- test/     : (optional) tests
+- test/     : future tests
 
 Build (Windows):
 ```
